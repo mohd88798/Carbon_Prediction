@@ -21,8 +21,8 @@ understand the data.
 
 ## Data Set Specification:
 Historical data of world CO2 emissions from 1750-2021.
-Country-specific data of CO2 emissions from 1950-2021
-Country Names data for Filtering 
+Country-specific data of CO2 emissions from 1950-2021.
+Country names data for Filtering. 
 
 ## Algorithm 
 LSTM
