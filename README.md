@@ -9,7 +9,7 @@ algorithm, which is known for its ability to predict data. The predicted carbon 
 are displayed through graphical representations, allowing users to easily visualize and 
 understand the data.
 
-## ibrary used
+## Library used
 1. Pandas
 2. Numpy
 3. Plotly_Express
@@ -32,11 +32,11 @@ LSTM
 4. Normalize the training and testing data
 5. Reshape the training and testing data to be compatible with the LSTM model
 6. Build the LSTM model with the following layers:
-7. a. LSTM layer with a specified number of units
-8. b. Dense layer with one output unit
+ a. LSTM layer with a specified number of units
+ b. Dense layer with one output unit
 9. Compile the model with the following parameters:
-10. a. Loss function - mean squared error
-11. b. Optimizer - adam
+ a. Loss function - mean squared error
+ b. Optimizer - adam
 12. Fit the model on the training data
 13. Predict CO2 emissions on the testing data
 14. De-normalize the predicted CO2 emissions
